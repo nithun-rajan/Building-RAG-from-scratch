@@ -1,1 +1,1 @@
-# Building-RAG-from-scratch
+A clean, minimal, and fully-custom implementation of Retrieval-Augmented Generation (RAG) built from the ground up using Python. This project demonstrates how to combine vector search with generative language models to build a simple yet powerful QA system without no use of fancy libraries like Open AI Embeddings , FAISS , Vector databases etc. I made this project to improve my understanding of RAG architecture
